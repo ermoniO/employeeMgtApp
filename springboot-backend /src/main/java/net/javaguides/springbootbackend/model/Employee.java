@@ -1,3 +1,5 @@
+//Created JPA entity here
+
 package net.javaguides.springbootbackend.model;
 
 import javax.persistence.*;
@@ -70,3 +72,4 @@ public class Employee {
         this.email = email;
     }
 }
+
